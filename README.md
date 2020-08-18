@@ -10,4 +10,4 @@ What growth mindset means to me is:
 ## 3 Reminders to keep myself in a growth mindset
 - I *don't* and *won't* ever know EVERYTHING ~~and im going to have a bad time~~ BECAUSE there can be continual growth (**a good thing**)
 - *Perfection is the enemy of to trying to grow*
-- **take a break when you hit a road block... it's going to break later anyway**
+* **take a break when you hit a road block... it's going to break later anyway**
