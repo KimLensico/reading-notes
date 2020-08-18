@@ -1,4 +1,6 @@
-**[home](https://kimlensico.github.io/reading-notes/)**
+<center>
+  **[home](https://kimlensico.github.io/reading-notes/)**
+  </center>
 
 # reading-notes
 Reading notes for Code 102 
