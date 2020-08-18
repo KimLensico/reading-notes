@@ -1,10 +1,10 @@
-#Choosing a Text Editor
+# Choosing a Text Editor
 - in the long-term it doesn't matter as to which text editor you use
   - each one has different features but overall work the same 
 - A text editor is a piece of software that is downloaded/installed on your computer or accessed online through your web browser 
 - Allows to write/manage text in order to build a website
  
- ##What features should you look for in a text editor?
+ ## What features should you look for in a text editor?
  1. code completion
  2. syntax highlighting
  3. a nice variety of themes (to reduce eye strain/fatigue)
@@ -42,3 +42,30 @@ software
 ## Extensions
 - plugins for text editor
 - adds functionality as you need it
+
+# Using Built-in Software
+- Every computer will come with its own text editor 
+  - __Mac__ - Text Edit 
+  - __Windows__ Notepad
+  - __Linux__:
+   - Each distribution will have its own text editor already installed 
+   - Text editors will go by different names
+- Built-in text editors don't come with features
+- "bare bone"
+
+# Third Party Options
+The following options vary from free to subscription based, Mac computer limited to being accessible by any computer/etc.
+Google for more info on that
+- Notepad ++ 
+- TextWrangler/BB Edit
+- Visual Studio Code
+- Atom 
+- Brackets
+- Sublime texts
+
+# Text Editors vs IDEs
+- __text editor__ 
+  - edits text.
+  - manages text/files
+- __IDE__ 
+  - a text editor, a file manager, a compiler, and a debugger all in one software package.
