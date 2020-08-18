@@ -1,7 +1,7 @@
 # reading-notes
 Reading notes for Code 102
 
--> links: <- 
+->links:<- 
 
 ## Growth Mindset 
 What growth mindset means to me is: 
