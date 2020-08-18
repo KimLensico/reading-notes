@@ -2,6 +2,8 @@
 
 > *Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.* - @[github](https://guides.github.com/features/mastering-markdown/)
 
+Markdown is used to show content on a website without using too much coding- as it's known to be a lightweight markup language for html files. It's not an editor where you can press a button to change things. There has to be a format to what you want to do. 
+
 The *simplest* way to explain is a rule and what happens to the text when you follow that rule! It uses symbols like # or * to structure the page.
 
 Here's a list of some basics:
@@ -22,6 +24,6 @@ Here's a list of some basics:
 
 In GitHub you're able to make a "sandbox". This is basically an empty canvas for text so you can try everything out. All you have to do is click new on your homapage. That link takes you to create a repository to start your new webpage. 
 
-***KEEP THE NAME lower CASED AND PUT DASHES IN-BETWEEN-WORDS OR ELSE IT MESSES THINGS UP IN THE LONG RUN.***
+***KEEP THE NAME lower CASE AND PUT DASHES IN-BETWEEN-WORDS OR ELSE IT MESSES THINGS UP IN THE LONG RUN.***
 
-Markdown is used to show content on a website without using too much coding- as it's known to be a lightweight markup language for html files. It's not an editor where you can press a button to change things. There has to be a format to what you want to do. 
+
