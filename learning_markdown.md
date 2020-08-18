@@ -22,7 +22,7 @@ Here's a list of some basics:
 > - *a place, building, or receptacle where things are or may be stored.* 
 > - thanks Google 
 
-In GitHub you're able to make a "sandbox". This is basically an empty canvas for text so you can try everything out. All you have to do is click new on your homapage. That link takes you to create a repository to start your new webpage. 
+In GitHub you're able to make a "sandbox". This is basically an empty canvas for text so you can try everything out. All you have to do is click new on your homapage. That link takes you to create a repository to start your new webpage. You can find the link to attach your webage under Settings after creating the page. (keep scrolling, it's there somewhere) Once you find the link, copy it, go back to the home page of your repository, click the cog symbol to your left and paste it so you can officially make your web experiment ALIVE. 
 
 ***KEEP THE NAME lower CASE AND PUT DASHES IN-BETWEEN-WORDS OR ELSE IT MESSES THINGS UP IN THE LONG RUN.***
 
