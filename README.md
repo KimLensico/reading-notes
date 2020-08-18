@@ -1,6 +1,6 @@
 **[home](https://kimlensico.github.io/reading-notes/)**
 
-# reading-notes
+# Reading-Notes
 Reading notes for Code 102 
 
 ## Growth Mindset 
