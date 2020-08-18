@@ -11,6 +11,6 @@ Unorder list
 - item 3 
 
 custom text tools
-** bold text
-* italicize text 
-~ strike through ~ 
+**bold text** 
+*italicize text* 
+~~strike through~~ 
