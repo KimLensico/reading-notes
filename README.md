@@ -11,6 +11,6 @@ What growth mindset means to me is:
 - **take a break when you hit a road block... it's going to break later anyway**
 
 ## Table of Contents
-- **[growth mindset](growth_mindset.md)**
+- **[growth mindset](learning_markdown.md)**
 - **[coder's computer](coders_computer.md)**
 - **[learning markdown](learning_markdown.md)**
