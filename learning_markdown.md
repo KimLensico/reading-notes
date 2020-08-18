@@ -7,12 +7,6 @@ Here's a list of some basics:
   
 |   MARKDOWN CODES             | EXAMPLE                      |
 |------------------------------|------------------------------|
-|```# Heading 1```             | # heading 1                  |
-|```## Heading 2```            | ## heading 2                 |
-|```###Heading 3```            | ### heading 3                |
-|```###### heading 6``` (max)  | ###### heading 6             |
-|```- bullet point```          | - bullet point               |
-|```> for quotes```            | > for quotes                 |
 |```**bold text**```           | **bold text**                |
 |```*italicize text*```        | *italicize text*             |
 |```~~strike text~~```         | ~~strike text~~              |
