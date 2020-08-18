@@ -27,4 +27,5 @@ In order to do so, do the following steps below:
 1. Create an account
 2. Join Code Fellows
 3. Apply what you learn on GitHub
-*It's* * ***that*** * *easy!* 
+
+###### *It's* * ***that*** * *easy!* 
