@@ -1,7 +1,7 @@
 # reading-notes
 Reading notes for Code 102
 
-> links: **[home](https://kimlensico.github.io/reading-notes/)**
+<center>links: **[home](https://kimlensico.github.io/reading-notes/)** </center>
 
 ## Growth Mindset 
 What growth mindset means to me is: 
