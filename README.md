@@ -1,5 +1,3 @@
-**[home](https://kimlensico.github.io/reading-notes/)**
-
 # Reading-Notes
 Reading notes for Code 102 
 
@@ -11,3 +9,8 @@ What growth mindset means to me is:
 - I *don't* and *won't* ever know EVERYTHING ~~and im going to have a bad time~~ BECAUSE there can be continual growth (**a good thing**)
 - *Perfection is the enemy of to trying to grow*
 - **take a break when you hit a road block... it's going to break later anyway**
+
+## Table of Contents
+- **[growth mindset](growth_mindset.md)**
+- **[coder's computer](coders_computer.md)**
+- **[learning markdown](learning_markdown.md)**
