@@ -1,6 +1,4 @@
-### What is Markdown?!
-
-> *When you add bold, italics, numbered lists, bullet points, headings, and so on to text, you’re “formatting” it. Markdown is a syntax—or, set of rules—that formats text on web pages.* - @[howtogeek](https://www.howtogeek.com/448323/what-is-markdown-and-how-do-you-use-it/#:~:text=When%20you%20add%20bold%2C%20italics,Language%2C%20better%20known%20as%20HTML.)
+## What is Markdown and How do I use it on Github?!
 
 > *Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.* - @[github](https://guides.github.com/features/mastering-markdown/)
 
@@ -15,5 +13,15 @@ Here's a list of some basics:
 |```~~strike text~~```         | ~~strike text~~              |
 |```[link](url)```             | [link](https://canvas.instructure.com/courses/2193644/discussion_topics/9431584)                  |
 
-* In order for these codes to work, the file MUST be an .md or .markdown file. *
+**In order for these codes to work, the file MUST be an .md or .markdown file on Github. Think of it as your 'setup' before you start using markup!** 
 
+### Okay... But how to I use it on GitHub??
+> repository /rəˈpäzəˌtôrē/ 
+> - *a place, building, or receptacle where things are or may be stored.* 
+> - thanks Google 
+
+In GitHub you're able to make a "sandbox". This is basically an empty canvas for text so you can try everything out. All you have to do is click new on your homapage. That link takes you to create a repository to start your new webpage. 
+
+***KEEP THE NAME lower CASED AND PUT DASHES IN-BETWEEN-WORDS OR ELSE IT MESSES THINGS UP IN THE LONG RUN.***
+
+Markdown is used to show content on a website without using too much coding- as it's known to be a lightweight markup language for html files. It's not an editor where you can press a button to change things. There has to be a format to what you want to do. 
