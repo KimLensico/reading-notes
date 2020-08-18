@@ -1,4 +1,4 @@
-``` **[home](https://kimlensico.github.io/reading-notes/)** ```
+**[home](https://kimlensico.github.io/reading-notes/)**
 
 # reading-notes
 Reading notes for Code 102 
