@@ -5,7 +5,7 @@
 The *simplest* way to explain is a rule and what happens to the text when you follow that rule! 
 Here's a list of some basics:
   
-|   MARKDOWN CODES             | EXAMPLE                      |
+|   MARKDOWN RULES             | EXAMPLE                      |
 |------------------------------|------------------------------|
 |```**bold text**```           | **bold text**                |
 |```*italicize text*```        | *italicize text*             |
