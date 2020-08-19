@@ -71,3 +71,5 @@ Google for more info on that
   - a text editor, a file manager, a compiler, and a debugger all in one software package.
 
 _Overall it's important to see what allows you to be the most efficient at coding. Choosing one might change the outcome compared to another. While they all work similar enough, it's important to find the one (or multiple if you switch off) that shows you the results and functions you're looking for as a coder._
+
+[<==back](README.md) 

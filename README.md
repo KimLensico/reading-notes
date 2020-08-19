@@ -13,4 +13,5 @@ What growth mindset means to me is:
 ## Table of Contents
 - **[learning markdown](learning_markdown.md)**
 - **[coder's computer](coders_computer.md)**
-- **[learning markdown](learning_markdown.md)**
+- **[git](git.md)**
+- **[html structure](html-structure.md)** 
