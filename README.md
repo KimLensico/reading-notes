@@ -15,3 +15,4 @@ What growth mindset means to me is:
 - **[coder's computer](coders_computer.md)**
 - **[git](git.md)**
 - **[html structure](html-structure.md)** 
+- **[css](css.md)**
