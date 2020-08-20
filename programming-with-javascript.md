@@ -25,3 +25,31 @@
 - joining multiple strings to become a new string is called *concatenation*
 - ex. numbers in quotations = string
 - nan = not a number 
+
+# Functions
+- let's you group a series of statements together to perform a specific task
+- if different parts of a script repeat the same task, you can reuse the function (don't have to repeat the same set of statements)
+
+## Declaring a function
+1. give it a name
+2. write statements needed to achieve its task inside the curly braces
+**this is called a function declaration**
+
+function example:
+```
+function sayHello() {
+    document.write('hello!');
+}
+```
+
+- what happens in a function stays in a function
+- function won't show up unless you invoke it
+
+invoke example:
+```
+sayHello();
+```
+
+-  in order to get this to work, we need to get the return value of the function
+
+```
