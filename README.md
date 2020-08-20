@@ -16,3 +16,8 @@ What growth mindset means to me is:
 - **[git](git.md)**
 - **[html structure](html-structure.md)** 
 - **[css](css.md)**
+- **[computer achitecture & logic](comp-arch-logic.md)**
+- **[javascript](javascript.md)**
+- **[programming with javascript](programming-with-javascript)**
+- **[operators and loops](operators-and-loops.md)** 
+- **[career coaching](career-coaching.md)** 
