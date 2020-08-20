@@ -30,7 +30,7 @@ Placing a Script on the page
 
 ---
 
-JavaScript runds where it is found in the HTML
+JavaScript runs where it is found in the HTML
 - when the browser comes across a ```<script>``` element, it stops to load the script, then checks to see if it needs to do anything
 
 Statements
@@ -39,6 +39,8 @@ Statements
   - statements are instructions
   - each one starts on a new line 
   -can be organized into code blocks
+  - conditional statements
+    - something greater/less than or [ not ] equal to
 
 Comments
 - **comments** should be written to explain what your code does
@@ -84,5 +86,9 @@ Six Rules for Variable Names
 5. use a name that describes what info the variable stores
 6. for multiple words: (firstSecondThird)
 - you can use an underscore but you can't use a dash 
+
+- **booleans** - JavaScript distinguishes between numbers, strings, and ```true``` or ```false```. tells what code should be activated
+- **numeric data type** - handles numbers. for tasks involving counting numbers, determining screen size 
+- **string data type** - consists of letters and characters. Can be single/double quotes. quotes must match. can be used with any kind of text
 
 [<==back](README.md) 
