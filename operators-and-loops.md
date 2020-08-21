@@ -41,7 +41,6 @@
 ```||``` - logical or. tests at least one condition. 
 - if **either** expression is ```true``` then the expression is true.
 - if both expressions are ```false``` then the expression is false.
-
 ```!``` - logical not. takes a single Boolean value and inverts it.
 - if the statement was ```false``` (without the ! before it), it would return ```true```
 - if it was ```true```, the statement would return ```false```. 
