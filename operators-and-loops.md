@@ -85,6 +85,7 @@ on this one line of code there are **three expressions**
 ---
 
 There are there are three common types of loop:
+
 ```for``` - run a code for a specific number of times
 - most common loop
 - condition is usually a counter that counts how many time the loop should run
