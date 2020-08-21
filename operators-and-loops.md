@@ -45,6 +45,7 @@
 ```!``` - logical not. takes a single Boolean value and inverts it.
 - if the statement was ```false``` (without the ! before it), it would return ```true```
 - if it was ```true```, the statement would return ```false```. 
+
 ---
 
 ### Expression Example:
